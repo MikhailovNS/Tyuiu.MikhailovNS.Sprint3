@@ -45,7 +45,7 @@ namespace Tyuiu.MikhailovNS.Sprint3.Task5.V20
             Console.WriteLine("****************************************************************************");
 
             Console.WriteLine("Сумма ряда равна " + ds.GetSumSumSeries(x, startValue1, startValue2, stopValue1, stopValue2));
-            Console.ReadLine();
+            Console.ReadLine(); 
         }
     }
 }
